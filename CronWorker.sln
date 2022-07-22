@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CronWorker", "CronWorker.csproj", "{239308A4-9529-4D20-9798-70072C908CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{239308A4-9529-4D20-9798-70072C908CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239308A4-9529-4D20-9798-70072C908CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239308A4-9529-4D20-9798-70072C908CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239308A4-9529-4D20-9798-70072C908CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B22A58E-795B-4CC1-9BE0-E04175573941}
+	EndGlobalSection
+EndGlobal
